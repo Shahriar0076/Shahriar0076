@@ -27,13 +27,13 @@ I specialize in Laravel, JavaScript, and Python, and enjoy building everything f
 - 🔹 [HYIPLab-hyip-investment-system](https://github.com/Shahriar0076/HYIPLab-hyip-investment-system) – Investment platform with referral, plans, ROI, and deposit tracking.
 - 🔹 [Eventlab-event-ticket-booking-system](https://github.com/Shahriar0076/Eventlab-event-ticket-booking-system) – Feature-rich event ticketing system with automated payments.
 
----
+<!-- ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahriar0076&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+</p> -->
 
 ---
 
