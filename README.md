@@ -15,7 +15,7 @@ I specialize in Laravel, JavaScript, and Python, and enjoy building everything f
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,flutter,html,css,tailwind,nodejs,express,mysql,postgresql,firebase,docker,python,django,java,kotlin,androidstudio,linux,git,github,vscode,figma,ps,ai,xd,seaborn,selenium" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,flutter,html,css,tailwind,bootstrap,nodejs,express,mysql,postgresql,firebase,docker,python,django,java,kotlin,androidstudio,linux,git,github,vscode,figma,ps,ai,xd,selenium" />
 </p>
 
 ---
