@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Zannatul Shahriar</h1>
 <p align="center">
-  💻 Full-Stack Developer | Laravel Enthusiast | Automation Builder
+  💻 Full-Stack Developer | Laravel Expert | Automation Builder
 </p>
 
 ---
@@ -12,12 +12,11 @@ I specialize in Laravel, JavaScript, and Python, and enjoy building everything f
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
-- **Languages**: PHP, JavaScript, Python, HTML, CSS
-- **Frameworks**: Laravel, Vue.js, React, Tailwind CSS
-- **Tools**: Git, GitHub, Firebase, MySQL, REST APIs
-- **Other**: Web scraping, UI Components, Automation scripts
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,flutter,html,css,tailwind,nodejs,express,mysql,postgresql,firebase,docker,python,django,java,kotlin,androidstudio,linux,git,github,vscode,figma,ps,ai,xd,seaborn,selenium" />
+</p>
 
 ---
 
@@ -40,10 +39,10 @@ I specialize in Laravel, JavaScript, and Python, and enjoy building everything f
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](#) <!-- add your link here -->
-- 🌐 Portfolio: [your-portfolio.com](#) <!-- add your portfolio link -->
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-zannatul-shahriar/)
+- 🌐 Portfolio: [shahriar0076.github.io/portfolio](https://shahriar0076.github.io/portfolio/)
+- 📧 Email: jyotizannatul@gmail.com
 
 ---
 
-_Thanks for visiting! ⭐ Feel free to check out my repositories and leave a star if you find them useful._
+_Thanks for stopping by! Feel free to explore my repositories and connect with me._
